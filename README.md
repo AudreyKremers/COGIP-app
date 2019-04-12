@@ -16,7 +16,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPapp
 
 * HTML5, CSS3, Bootstrap framework
 * PHP
-* MySQL
+* MySQL,MySQL Workbench
 
 ## Screenshots
 ![Screenshot Weather](public/WeatherAppScreenshot.png)
@@ -25,7 +25,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPapp
 https://cogip-becode.000webhostapp.com/index.php
 
 ## How to use
-In order to log into the web application you can use the following accounts :
+In order to log into the web application you can use the following user accounts :
 
 ### Jean-Christian Ranu (godmode account):
 login: Jean-Christian.Ranu@cogip.com
