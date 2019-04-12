@@ -19,7 +19,7 @@ https://github.com/becodeorg/BXL-Johnson-3.9/tree/master/Projets/COGIPapp
 * MySQL,MySQL Workbench
 
 ## Screenshots
-![Screenshot Weather](public/WeatherAppScreenshot.png)
+![Screenshot Weather](assets/img/CogipWebAppScreenshot.png)
 
 ## Link to the Web Application
 https://cogip-becode.000webhostapp.com/index.php
